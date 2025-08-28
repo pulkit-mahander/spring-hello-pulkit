@@ -1,4 +1,4 @@
-# Spring Boot Hello World Hi
+# Spring Boot Hello World 
 
 A spring boot enabled hello world application
 
